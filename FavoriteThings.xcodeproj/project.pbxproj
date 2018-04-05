@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8DCCCD4E207683BE00C34718 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8DCCCD4D207683BE00C34718 /* GoogleService-Info.plist */; };
 		8DED8349207682DF00D3E594 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DED8348207682DF00D3E594 /* AppDelegate.swift */; };
 		8DED834B207682DF00D3E594 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DED834A207682DF00D3E594 /* ViewController.swift */; };
 		8DED834E207682DF00D3E594 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8DED834C207682DF00D3E594 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8DCCCD4D207683BE00C34718 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		8DED8345207682DF00D3E594 /* FavoriteThings.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FavoriteThings.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DED8348207682DF00D3E594 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8DED834A207682DF00D3E594 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		8DED8347207682DF00D3E594 /* FavoriteThings */ = {
 			isa = PBXGroup;
 			children = (
+				8DCCCD4D207683BE00C34718 /* GoogleService-Info.plist */,
 				8DED8348207682DF00D3E594 /* AppDelegate.swift */,
 				8DED834A207682DF00D3E594 /* ViewController.swift */,
 				8DED834C207682DF00D3E594 /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8DED8353207682DF00D3E594 /* LaunchScreen.storyboard in Resources */,
+				8DCCCD4E207683BE00C34718 /* GoogleService-Info.plist in Resources */,
 				8DED8350207682DF00D3E594 /* Assets.xcassets in Resources */,
 				8DED834E207682DF00D3E594 /* Main.storyboard in Resources */,
 			);
